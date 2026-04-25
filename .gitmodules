@@ -1,3 +1,6 @@
 [submodule "Helium"]
 	path = Helium
 	url = https://github.com/27105/Helium
+[submodule "Iodine"]
+	path = Iodine
+	url = https://github.com/27105/Iodine
